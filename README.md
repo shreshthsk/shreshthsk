@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/shreshthsk/shreshthsk/blob/main/SHRESHTH%20KAUSHAL%20(1).png)
 <h1 align="center">Hi 👋, I'm Shreshth</h1>
 <h3 align="center">A Data Scientist Aspirant from India</h3>
 
