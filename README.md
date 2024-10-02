@@ -9,12 +9,11 @@
 - 🌱 I’m currently learning **Gen AI as part of my course curriculum**
 
 - 💬 Ask me about **Statistics, Big Data**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreshth_sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreshth_sk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreshth kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreshth kaushal" height="30" width="40" /></a>
-<a href="https://kaggle.com/shreshth kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreshth kaushal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreshth-kaushal-31a2371b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreshth kaushal" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shreshthkaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreshth kaushal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
