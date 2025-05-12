@@ -1,12 +1,12 @@
 ![logo](https://github.com/shreshthsk/shreshthsk/blob/main/SHRESHTH%20KAUSHAL%20(1).png)
 <h1 align="center">Hi 👋, I'm Shreshth</h1>
-<h3 align="center">A Data Scientist Aspirant from India</h3>
+<h3 align="center">A Data Scientist Aspirant from India (M. Tech in AI and Data Science)</h3>
 
 <p align="left"> <a href="https://twitter.com/shreshth_sk" target="blank"><img src="https://img.shields.io/twitter/follow/shreshth_sk?logo=twitter&style=for-the-badge" alt="shreshth_sk" /></a> </p>
 
-- 🔭 I’m currently working on **Amazonalyze and EXCUiS AI as my personal project**
+- 🔭 I’m currently working on **Amazonalyze as part of my project**
 
-- 🌱 I’m currently learning **Gen AI as part of my course curriculum**
+- 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **Statistics, Big Data**
 <h3 align="left">Connect with me:</h3>
